@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "790042550995",
+    "firebase_url": "https://agendaplusapp-70018.firebaseio.com",
+    "project_id": "agendaplusapp-70018",
+    "storage_bucket": "agendaplusapp-70018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790042550995:android:dc9f4f6b6c1b333e",
+        "android_client_info": {
+          "package_name": "jrjava.eduhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790042550995-gt08ga82imthet42rdca41lglc0gmbrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDySgUpE6Axki5DMgUVvsKvf9Bp8Eokyow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
